@@ -155,8 +155,3 @@ footer .form-control:focus {
   object-fit: cover;
   object-position: right center;
 }
-
-.equipment-img {
-  height: 550px; 
-  overflow: hidden;
-}
